@@ -16,6 +16,13 @@ Ejercicios en archivo `.py`
 - [`Ejercicio 2.4`](Actividad2_py/ejercicio4.py)
 - [`Ejercicio 2.5`](Actividad2_py/ejercicio5.py)
 
+Diagramas de clase
+- [`Ejercicio 2.1`](Diagramas%20de%20Clase/ej1.png)
+- [`Ejercicio 2.2`](Diagramas%20de%20Clase/ej2.png)
+- [`Ejercicio 2.3`](Diagramas%20de%20Clase/ej3.png)
+- [`Ejercicio 2.4`](Diagramas%20de%20Clase/ej4.png)
+- [`Ejercicio 2.5`](Diagramas%20de%20Clase/ej5.png)
+
 ## Notebook (Google Colab)
 🔗 [Ver notebook en Colab](https://colab.research.google.com/drive/1SForkFdWoVQ1gCzDnuYQs8D6e0rvpwtr?usp=sharing)
 
