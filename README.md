@@ -20,4 +20,4 @@ Ejercicios en archivo `.py`
 🔗 [Ver notebook en Colab](https://colab.research.google.com/drive/1SForkFdWoVQ1gCzDnuYQs8D6e0rvpwtr?usp=sharing)
 
 ## PDF con diagramas de clase
-Pendiente por agregar.
+- [`PDF con código y diagramas de clase`](Actividad2_py/actividad2_poo.pdf)
